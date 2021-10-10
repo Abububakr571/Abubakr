@@ -12,7 +12,9 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
 }
-
+.cl1{
+  color: red;
+}
 a {
   color: #149ddd;
 }
